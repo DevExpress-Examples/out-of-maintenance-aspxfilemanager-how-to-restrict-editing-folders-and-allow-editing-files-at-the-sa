@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/FileManager/Default.aspx) (VB: [Default.aspx](./VB/FileManager/Default.aspx))
-* [Default.aspx.cs](./CS/FileManager/Default.aspx.cs) (VB: [Default.aspx](./VB/FileManager/Default.aspx))
+* [Default.aspx.cs](./CS/FileManager/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/FileManager/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxFileManager - How to restrict editing folders and allow editing files at the same time
 
