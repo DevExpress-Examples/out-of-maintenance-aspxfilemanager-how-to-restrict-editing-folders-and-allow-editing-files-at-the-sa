@@ -31,6 +31,6 @@ Namespace Q25403
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxFileManager1 As Global.DevExpress.Web.ASPxFileManager.ASPxFileManager
+		Protected ASPxFileManager1 As Global.DevExpress.Web.ASPxFileManager
 	End Class
 End Namespace
